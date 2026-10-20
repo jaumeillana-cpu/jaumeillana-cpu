@@ -24,7 +24,9 @@ Soy un profesional en transición hacia el sector tecnológico, después de más
 
 Aplicación web académica desarrollada desde cero con apoyo de IA. Incluye Pong, tres en raya y un juego de parejas, además de un backend PHP y una base de datos MySQL para gestionar puntuaciones.
 
-*Próximamente disponible en GitHub.*
+🎮 **[Ver proyecto Minijuegos Arcade](https://github.com/jaumeillana-cpu/minijuegos-arcade)**
+
+  Aplicación web académica desarrollada con HTML, CSS, JavaScript, PHP y MySQL, utilizando inteligencia artificial como herramienta de apoyo.
 
 ### 🤝 Sobre mí
 
