@@ -24,8 +24,8 @@ Soy un profesional en transición hacia el sector tecnológico, después de más
 
 Aplicación web académica desarrollada desde cero con apoyo de inteligencia artificial. Incluye tres juegos (Pong, tres en raya y parejas), lógica de programación con JavaScript, backend PHP y una base de datos MySQL para gestionar jugadores y puntuaciones.
 
-**Tecnologías:** HTML5, CSS3, JavaScript, PHP y MySQL.
-  Aplicación web académica desarrollada con HTML, CSS, JavaScript, PHP y MySQL, utilizando inteligencia artificial como herramienta de apoyo.
+**Tecnologías:** 
+Aplicación web académica desarrollada con HTML, CSS, JavaScript, PHP y MySQL, utilizando inteligencia artificial como herramienta de apoyo.
 
 ### 🤝 Sobre mí
 
